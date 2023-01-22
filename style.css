@@ -1,0 +1,22 @@
+/* styles.css */
+
+body {
+    background-color: azure;
+}
+
+.parent {
+    background-color:lightseagreen;
+    display: flex;
+    padding: 20px;
+}
+
+.child {
+    background-color: coral;
+    flex: 1;
+    padding: 10px;
+}
+
+.one {
+    background-color: aqua;
+    flex: 2;
+}
